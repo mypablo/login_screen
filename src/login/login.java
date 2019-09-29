@@ -27,7 +27,6 @@ public class login extends javax.swing.JFrame {
 		pane.add(login);
 		add(pane);
 		setVisible(true);
-		
 	}
 
 	public static void main(String[] args) {
