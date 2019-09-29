@@ -20,7 +20,6 @@ public class login extends javax.swing.JFrame {
 		JLabel usernamel = new JLabel("Username");
 		JLabel passwordl = new JLabel("Password");
 		
-		
 		pane.add(username);
 		pane.add(usernamel);
 		pane.add(password);
